@@ -14,4 +14,4 @@
 2. 
 
 ### **Алгоритм метода:**
-![Алгоритм метода](/Users/anastasia.levina/Desktop/домашка/четверть 1/контрольная/Алгоритм/CheckLenghtOfElements.jpeg)
+![Алгоритм метода](/контрольная/Алгоритм/CheckLenghtOfElements.jpeg)
