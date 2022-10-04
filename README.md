@@ -14,4 +14,4 @@
 2. 
 
 ### **Алгоритм метода:**
-![Алгоритм метода](/контрольная/Алгоритм/CheckLenghtOfElements.jpeg)
+![Алгоритм метода](/контрольная/Алгоритм/CheckLenghtOfElements(small).jpeg)
